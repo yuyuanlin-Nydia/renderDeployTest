@@ -1,5 +1,8 @@
 {
   "name": "example-hello-world",
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "nuxt": "latest"
   },
